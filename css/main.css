@@ -11,24 +11,29 @@
     margin-top: 10px;
 }
 
+.sectionTitle {
+    font-size: 20px;
+}
+
 .pageTitle {
     font-size: 50px;
     font-weight: 300;
     text-align: left;
     font-family: 'Flavors', cursive;
+    color: #4db551;
 }
 
 .personal {
-    text-align: right;
-    font-size: 22px;
+    font-size: 20px;
+    color: #e4ae9a;
 }
 
 .myFavoirteAnimal.title {
+    font-size: 20px;
     font-family: 'Gloria Hallelujah', cursive;
 }
 
 .myFavoirteAnimal.content {
-    padding-left: 20px;
-    padding-right: 20px;
+    font-size: 15px;
     font-family: 'Gloria Hallelujah', cursive;
 }
